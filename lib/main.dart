@@ -15,14 +15,19 @@ class App extends StatelessWidget {
           centerTitle: true,
           backgroundColor: Colors.grey[900],
         ),
-        body: Center(child: Image.asset(imageURL)),
+        body: Center(
+          child: IconButton(
+            icon: Icon(Icons.house),
+            onPressed: () => print("Tada"),
+          ),
+        ),
         floatingActionButton: FloatingActionButton(
           child: Text(
             "+",
             style: TextStyle(fontWeight: FontWeight.normal, fontSize: 34.0),
           ),
           onPressed: () => print("pressed"),
-          backgroundColor: Colors.lightBlue[600],
+          backgroundColor: Colors.lightBlueAccent[600],
         ),
       ),
     );

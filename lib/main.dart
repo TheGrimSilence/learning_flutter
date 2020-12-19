@@ -15,7 +15,7 @@ class App extends StatelessWidget {
           centerTitle: true,
           backgroundColor: Colors.grey[900],
         ),
-        body: Center(child: Image(image: AssetImage(imageURL))),
+        body: Center(child: Image.asset(imageURL)),
         floatingActionButton: FloatingActionButton(
           child: Text(
             "+",

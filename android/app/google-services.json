@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "909400009138",
+    "project_id": "learning-flutter-eca15",
+    "storage_bucket": "learning-flutter-eca15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909400009138:android:a0766ea2035b9423991cab",
+        "android_client_info": {
+          "package_name": "io.blackfall.learning_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909400009138-q55e3gp44jj9uet14508h2q96qv9br2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.blackfall.learning_flutter",
+            "certificate_hash": "566d4e5209b071d86971821bef30838b173226b8"
+          }
+        },
+        {
+          "client_id": "909400009138-inhqm4j339urcph2bl2e15tfh4dbvl58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7BnFUXKa_cKMf7f-boqNUUhpQquSDRXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909400009138-inhqm4j339urcph2bl2e15tfh4dbvl58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
